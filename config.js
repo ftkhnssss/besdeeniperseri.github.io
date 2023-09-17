@@ -19,5 +19,5 @@ const CONFIG = {
     mess: 'Heehehehehe maaff ayanggg akuu emangg buate gini🥰. Akuu tau kamu juga sayang aku nememm walopun akuu lebih sayang memememem nemem sama kamuuu 😘😘',
     messDesc: 'Akuuu engga sabar mau keremua sama kamu natii kita rayain ulang tawun sama sama ayanggg. Tungguin akuu yaa ayangg comelll.',
     btnAccept: '❤️',
-    messLink: 'urlis.net/75y7pd5a'
+    messLink: 'https://urlis.net/75y7pd5a'
 }
